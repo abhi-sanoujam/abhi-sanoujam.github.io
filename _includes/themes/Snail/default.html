@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	{% if page.group == 'home' %}
+	<title>{{ site.title }}</title>
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}
+	{% else %}
+	<title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+	{% endif %}
+	<meta name="author" content="{{ site.author.name }}">
+	
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/jquery.fancybox.css">
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/main.css">
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/pages/journal.css">
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/team.css">
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/static.css">
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/errors.css">
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/google-code-prettify/prettify.css">
+	<link rel="shortcut icon" href="{{ ASSET_PATH }}/img/favicon.jpg">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+	<script src="{{ ASSET_PATH }}/google-code-prettify/prettify.js"></script>
+	<script type="text/javascript">
+	  $(function(){
+		$("pre code").addClass("prettyprint linenums");
+		prettyPrint();
+	  });
+	</script>
+<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- atom & rss feed -->
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <link href='{{ ASSET_PATH }}/highlighter/SyntaxHighlighter.css' rel='stylesheet' type='text/css'/>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shCore.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushJava.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushJScript.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushXml.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushProperties.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushBash.js'></script>
+    <style type='text/css'>
+        .console {
+            background-color: black;
+            color: #ffffff;
+            font-family: courier;
+        }
+    </style>
+</head>
+<body>
+	<noscript>
+		&amp;lt;div id="no-js"&amp;gt;Please enable JavaScript in your browser to experience {{ HOME_PATH }} fully&amp;lt;/div&amp;gt;
+	</noscript>
+    <div id="page-container">
+		<div>
+			{% include themes/Snail/nav.html %}
+			<div id="page-content">
+				{{ content }}
+			</div>
+			<div class="clearboth pagebottom"></div>
+		</div>
+	</div>
+	{% include themes/Snail/footer.html %}
+	{% include JB/analytics %}
+
+    <script language='javascript'>
+        dp.SyntaxHighlighter.ClipboardSwf = '{{ ASSET_PATH }}/highlighter/clipboard.swf';
+        dp.SyntaxHighlighter.BloggerMode();
+        dp.SyntaxHighlighter.HighlightAll('code');
+    </script>
+</body>
+</html>
