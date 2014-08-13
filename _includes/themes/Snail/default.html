@@ -34,6 +34,21 @@
 <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <link href='{{ ASSET_PATH }}/highlighter/SyntaxHighlighter.css' rel='stylesheet' type='text/css'/>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shCore.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushJava.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushJScript.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushXml.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushProperties.js'></script>
+    <script language='javascript' src='{{ ASSET_PATH }}/highlighter/shBrushBash.js'></script>
+    <style type='text/css'>
+        .console {
+            background-color: black;
+            color: #ffffff;
+            font-family: courier;
+        }
+    </style>
 </head>
 <body>
 	<noscript>
@@ -50,5 +65,11 @@
 	</div>
 	{% include themes/Snail/footer.html %}
 	{% include JB/analytics %}
+
+    <script language='javascript'>
+        dp.SyntaxHighlighter.ClipboardSwf = '{{ ASSET_PATH }}/highlighter/clipboard.swf';
+        dp.SyntaxHighlighter.BloggerMode();
+        dp.SyntaxHighlighter.HighlightAll('code');
+    </script>
 </body>
 </html>

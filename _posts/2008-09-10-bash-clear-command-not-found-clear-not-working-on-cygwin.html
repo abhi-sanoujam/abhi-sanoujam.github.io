@@ -1,0 +1,19 @@
+---
+layout: post
+title: bash clear command not found - clear not working on cygwin
+date: 2008-09-10 16:26:43 UTC
+updated: 2008-09-10 16:26:43 UTC
+comments: false
+tags: bash clear command cygwin
+---
+
+Ok so you installed Cygwin and try out your first commands.... u cluttered ur screen and its time for doing a "clear".
+<br/>
+<br/>Ooops... its giving you a "bash: clear: command not found". You just can't clear the dumb screen. I know thats
+frustrating....
+<br/>
+<br/>So which dumb package did you miss when installing cygwin --- its the ncurses package.
+Open cygwin setup again and choose ncurses library from the "Lib" package. Once you've installed that, clear will start working.
+
+<br/><br/>If you are lazy enough and don't want to download stuff, just use "Ctrl+L" to clear your screen.<br/><br/>
+<br/>Keep clearing...

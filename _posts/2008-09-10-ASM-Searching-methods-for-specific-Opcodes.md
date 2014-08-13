@@ -146,7 +146,8 @@ The TestClass contains some methods with AALOAD. It also contains other methods 
     i)</code> are the methods that contain the AALOAD instruction as seen in the code.
 
 
-Lets now write the Main class that will load the bytes of <code>TestClass</code> and run the <code>OpcodeSearchClassAdapter</code>
+Lets now write the Main class that will load the bytes of <code>TestClass</code> and run the 
+<code>OpcodeSearchClassAdapter</code>
 
 
     package test;
