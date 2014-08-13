@@ -4,7 +4,8 @@ title: Meet Mac's "sandbox-exec"
 date: 2009-06-26 09:30:51 UTC
 updated: 2009-06-26 09:30:51 UTC
 comments: false
-categories: 
+categories: mac
+tags: mac sandbox
 ---
  
 I was working on something to block outgoing connections for one particular app *only*. And I use a mac, leopard... the 

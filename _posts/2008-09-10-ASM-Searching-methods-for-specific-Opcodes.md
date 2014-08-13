@@ -5,7 +5,7 @@ date: 2008-09-10 11:55:07 UTC
 updated: 2008-09-10 11:55:07 UTC
 comments: false
 categories: java
-tags: aaload asm bytecode classadapter classreader java opcode
+tags: java aaload asm bytecode classadapter classreader opcode
 ---
 
 Doing bytecode manipulation is cool, and [ASM](http://asm.objectweb.org/) makes the job quite easy. Its a cool 

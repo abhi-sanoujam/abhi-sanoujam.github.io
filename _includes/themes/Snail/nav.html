@@ -4,6 +4,7 @@
 	<div id="nav-c">
 		<ul id="nav-list" style="width: 700px;">
 			<li id="home"><a href="{{ HOME_PATH }}">Home</a></li>
+            <li><a href="{{ HOME_PATH }}">Posts</a></li>
 			{% assign pages_list = site.pages %}
 			{% assign group = 'navigation' %}
 			{% for node in pages_list %}
@@ -24,7 +25,7 @@
 			{% assign pages_list = nil %}
 			{% assign group = nil %}
 		</ul>
-		<form id="nav-search" method="GET" action="{{ site.JB.search_path }}">
+		<!--form id="nav-search" method="GET" action="{{ site.JB.search_path }}">
 			<div id="search-right-pix">
 				<div id="search-left-pix">
 					<div id="search-center-pix">
@@ -33,7 +34,7 @@
 					</div>
 				</div>
 			</div>
-		</form>
+		</form-->
 		
 		
 	</div>

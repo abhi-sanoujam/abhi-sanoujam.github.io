@@ -4,7 +4,8 @@ title: Unique maven surefire plugin configurations for individual tests
 date: 2009-11-06 13:06:39 UTC
 updated: 2009-11-06 13:06:39 UTC
 comments: false
-categories: integration-test maven system-test test
+categories: java
+tags: java maven integration-test system-test test
 ---
  
 <script type="text/javascript">var dzone_style = '1';var dzone_url = 

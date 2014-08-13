@@ -4,7 +4,8 @@ title: Posting javascript in blogger
 date: 2009-03-23 14:07:11 UTC
 updated: 2009-03-23 14:07:11 UTC
 comments: false
-categories: 
+categories: web
+tags: web javascript
 ---
  
 I once tried to post some javascript inside the post itself and found out that it was not working.

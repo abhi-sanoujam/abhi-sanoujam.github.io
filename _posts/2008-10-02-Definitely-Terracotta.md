@@ -4,7 +4,8 @@ title: Definitely Terracotta
 date: 2008-10-02 23:11:09 UTC
 updated: 2008-10-02 23:11:09 UTC
 comments: false
-tags: terracotta
+categories: java 
+tags: java terracotta
 ---
  
 <blockquote>

@@ -4,7 +4,8 @@ title: Yahoo and Google Suggestions
 date: 2009-03-24 13:38:58 UTC
 updated: 2009-03-24 13:38:58 UTC
 comments: false
-categories: fun google suggest javascript yahoo suggest
+categories: javascript
+tags: web fun google suggest javascript yahoo
 ---
  
 <script type="text/javascript">var dzone_style = '1';</script> <script language="javascript" 

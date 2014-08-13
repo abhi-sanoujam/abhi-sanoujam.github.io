@@ -4,7 +4,8 @@ title: The webapp -- starting the engine
 date: 2008-11-18 15:11:41 UTC
 updated: 2008-11-18 15:11:41 UTC
 comments: false
-tags: sample-tc-webapp java spring
+categories: java
+tags: java sample-tc-webapp spring
 ---
 
 I plan to create a simple webapp and illustrate using maven, hibernate, jpa, spring mvc, spring security, spring

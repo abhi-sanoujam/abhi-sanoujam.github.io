@@ -5,7 +5,7 @@ date: 2008-12-17 13:44:06 UTC
 updated: 2008-12-17 13:44:06 UTC
 comments: false
 categories: java
-tags: java maven hibernate jps ehcache spring terracotta composite-keys
+tags: java maven hibernate jpa ehcache spring terracotta composite-keys
 ---
  
 Some user were having some <a href="http://forums.terracotta.org/forums/posts/list/1579.page">problem</a> using 

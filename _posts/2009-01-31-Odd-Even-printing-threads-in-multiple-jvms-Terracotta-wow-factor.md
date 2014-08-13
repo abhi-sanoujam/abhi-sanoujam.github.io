@@ -5,7 +5,7 @@ date: 2009-01-31 16:51:42 UTC
 updated: 2009-01-31 16:51:42 UTC
 comments: false
 categories: java
-tags: java concurrency
+tags: java concurrency terracotta
 ---
  
 Recently I got a comment asking about a small use-case demostrating <a href="http://terracotta.org/">Terracotta</a>

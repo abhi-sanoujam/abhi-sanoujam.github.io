@@ -4,7 +4,8 @@ title: Blogger + syntax highlighting
 date: 2008-12-17 13:14:47 UTC
 updated: 2008-12-17 13:14:47 UTC
 comments: false
-categories: bash syntax highlight blogger properties syntax highlight syntax-highlight
+categories: web
+tags: web syntax highlight blogger syntax-highlight
 ---
  
 I was frustrated to see my

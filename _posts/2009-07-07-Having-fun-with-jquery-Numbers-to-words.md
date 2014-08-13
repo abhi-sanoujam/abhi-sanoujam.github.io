@@ -4,7 +4,8 @@ title: Having fun with jquery -- Numbers to words
 date: 2009-07-07 06:19:05 UTC
 updated: 2009-07-07 06:19:05 UTC
 comments: false
-tags: fun jquery javascript
+categories: javascript
+tags: javascript fun jquery
 ---
  
 Having some fun with jquery, its cool btw... 

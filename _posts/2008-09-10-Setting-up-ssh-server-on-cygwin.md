@@ -5,6 +5,8 @@ date: 2008-09-10 16:27:38 UTC
 updated: 2008-09-10 16:27:38 UTC
 comments: false
 tags: cygwin server ssh
+categories: system
+tags: system ssh cygwin
 ---
  
 Here's a nice post I came up with when I was looking on how to set up ssh server up and running on my win box with 

@@ -4,7 +4,8 @@ title: ASM Eclipse plugin + Ganymede + Not on its project's build path
 date: 2008-10-29 10:25:10 UTC
 updated: 2008-10-29 10:25:10 UTC
 comments: false
-tags: asm eclipse eclipse plugin
+categories: java
+tags: java asm eclipse eclipse-plugin
 ---
  
 ASM plugin for eclipse found <a href="http://asm.objectweb.org/eclipse/index.html">here</a> works neat upto Eclipse 3.3

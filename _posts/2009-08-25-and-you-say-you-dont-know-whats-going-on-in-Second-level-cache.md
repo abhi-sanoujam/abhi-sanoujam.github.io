@@ -4,7 +4,8 @@ title: ... and you say you don't know what's going on in Second-level cache!!
 date: 2009-08-25 13:09:55 UTC
 updated: 2009-08-25 13:09:55 UTC
 comments: false
-tags: awesome dev-console hibernate terracotta
+categories: java
+tags: java awesome dev-console hibernate terracotta
 ---
  
 <script type="text/javascript">var dzone_style = '1';var dzone_url = 

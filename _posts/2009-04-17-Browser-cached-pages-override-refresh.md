@@ -4,7 +4,8 @@ title: Browser cached pages + override + refresh
 date: 2009-04-17 05:23:41 UTC
 updated: 2009-04-17 05:23:41 UTC
 comments: false
-categories: 
+categories: web
+tags: web browser
 ---
  
 This is one of those "just a quick note..."
