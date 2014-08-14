@@ -105,17 +105,17 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
+    provider : disqus
     duoshuo :
-      short_name : simpleyyt
+      short_name : abhi-sanoujam
     disqus :
-      short_name : simpleyyt
+      short_name : abhi-sanoujam
     livefyre :
-      site_id : 123
+      site_id : 123456
     intensedebate :
-      account : 123abc
+      account : 123abcdef
     facebook :
-      appid : 123
+      appid : 123456
       num_posts: 5
       width: 580
       colorscheme: light
