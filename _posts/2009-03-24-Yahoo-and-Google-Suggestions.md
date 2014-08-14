@@ -3,7 +3,6 @@ layout: post
 title: Yahoo and Google Suggestions
 date: 2009-03-24 13:38:58 UTC
 updated: 2009-03-24 13:38:58 UTC
-comments: false
 categories: javascript
 tags: web fun google suggest javascript yahoo
 ---

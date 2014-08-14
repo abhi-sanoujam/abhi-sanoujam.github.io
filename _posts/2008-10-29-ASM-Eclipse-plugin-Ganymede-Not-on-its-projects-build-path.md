@@ -3,7 +3,6 @@ layout: post
 title: ASM Eclipse plugin + Ganymede + Not on its project's build path
 date: 2008-10-29 10:25:10 UTC
 updated: 2008-10-29 10:25:10 UTC
-comments: false
 categories: java
 tags: java asm eclipse eclipse-plugin
 ---

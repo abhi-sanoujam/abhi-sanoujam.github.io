@@ -3,7 +3,6 @@ layout: post
 title: Just a quick note.... Maven + dependencies + classpath
 date: 2008-11-21 13:29:32 UTC
 updated: 2008-11-21 13:29:32 UTC
-comments: false
 categories: java 
 tags: java maven
 ---

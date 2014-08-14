@@ -3,7 +3,6 @@ layout: post
 title: bash command line editing + custom inputrc -> efficient editing
 date: 2009-06-24 12:44:58 UTC
 updated: 2009-06-24 12:44:58 UTC
-comments: false
 categories: bash
 tags: bash command-line
 ---

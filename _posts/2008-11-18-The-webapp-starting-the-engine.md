@@ -3,7 +3,6 @@ layout: post
 title: The webapp -- starting the engine
 date: 2008-11-18 15:11:41 UTC
 updated: 2008-11-18 15:11:41 UTC
-comments: false
 categories: java
 tags: java sample-tc-webapp spring
 ---

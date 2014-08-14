@@ -3,7 +3,6 @@ layout: post
 title: Setting up ssh server on cygwin
 date: 2008-09-10 16:27:38 UTC
 updated: 2008-09-10 16:27:38 UTC
-comments: false
 tags: cygwin server ssh
 categories: system
 tags: system ssh cygwin

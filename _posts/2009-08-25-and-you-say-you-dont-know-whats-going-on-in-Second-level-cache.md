@@ -3,7 +3,6 @@ layout: post
 title: ... and you say you don't know what's going on in Second-level cache!!
 date: 2009-08-25 13:09:55 UTC
 updated: 2009-08-25 13:09:55 UTC
-comments: false
 categories: java
 tags: java awesome dev-console hibernate terracotta
 ---

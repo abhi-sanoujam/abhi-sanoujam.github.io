@@ -3,7 +3,6 @@ layout: post
 title: Maven + hibernate + jpa + ehcache + spring + terracotta + composite keys
 date: 2008-12-17 13:44:06 UTC
 updated: 2008-12-17 13:44:06 UTC
-comments: false
 categories: java
 tags: java maven hibernate jpa ehcache spring terracotta composite-keys
 ---

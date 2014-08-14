@@ -3,7 +3,6 @@ layout: post
 title: Meet Mac's "sandbox-exec"
 date: 2009-06-26 09:30:51 UTC
 updated: 2009-06-26 09:30:51 UTC
-comments: false
 categories: mac
 tags: mac sandbox
 ---

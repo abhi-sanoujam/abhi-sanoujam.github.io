@@ -1,5 +1,6 @@
-# Abhishek Sanoujam's Blog
+# [Abhishek Sanoujam's Blog](http://abhi.sanoujam.com)
 
+Visit the [site](http://abhi.sanoujam.com)
 Thanks to - http://jekyllthemes.org/themes/simpleyyt/
 
 ## License

@@ -3,7 +3,6 @@ layout: post
 title: Unique maven surefire plugin configurations for individual tests
 date: 2009-11-06 13:06:39 UTC
 updated: 2009-11-06 13:06:39 UTC
-comments: false
 categories: java
 tags: java maven integration-test system-test test
 ---

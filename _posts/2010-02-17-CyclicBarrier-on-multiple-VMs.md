@@ -3,7 +3,6 @@ layout: post
 title: CyclicBarrier on multiple VM's
 date: 2010-02-17 21:09:20 UTC
 updated: 2010-02-17 21:09:20 UTC
-comments: false
 categories: java
 tags: java concurrency 
 ---

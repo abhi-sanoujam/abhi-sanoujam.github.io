@@ -3,7 +3,6 @@ layout: post
 title: Posting javascript in blogger
 date: 2009-03-23 14:07:11 UTC
 updated: 2009-03-23 14:07:11 UTC
-comments: false
 categories: web
 tags: web javascript
 ---

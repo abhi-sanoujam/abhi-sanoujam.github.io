@@ -3,7 +3,6 @@ layout: post
 title: ASM - Searching methods for specific Opcodes
 date: 2008-09-10 11:55:07 UTC
 updated: 2008-09-10 11:55:07 UTC
-comments: false
 categories: java
 tags: java aaload asm bytecode classadapter classreader opcode
 ---

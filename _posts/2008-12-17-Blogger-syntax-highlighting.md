@@ -3,7 +3,6 @@ layout: post
 title: Blogger + syntax highlighting
 date: 2008-12-17 13:14:47 UTC
 updated: 2008-12-17 13:14:47 UTC
-comments: false
 categories: web
 tags: web syntax highlight blogger syntax-highlight
 ---

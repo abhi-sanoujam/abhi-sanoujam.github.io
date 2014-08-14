@@ -3,7 +3,6 @@ layout: post
 title: Odd Even printing threads... in multiple jvms -- Terracotta wow factor!
 date: 2009-01-31 16:51:42 UTC
 updated: 2009-01-31 16:51:42 UTC
-comments: false
 categories: java
 tags: java concurrency terracotta
 ---
