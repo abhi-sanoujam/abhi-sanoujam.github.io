@@ -16,8 +16,10 @@ anymore. How you wish there was a quick cheat sheet that translates your eclipse
 So, here's a quick mapping between eclipse and IntelliJ keyboard shortcuts for most commonly used ones - mostly for 
 java developers on mac. Hope this helps...
 
-**Description** | **Eclipse** |    **Intellij**
------------:|:---------:|:---------:
+{:.table .table-bordered .table-striped}
+|----------------+-------------+---------------|
+|**Description** | **Eclipse** |    **Intellij**|
+|-----------:|:---------:|:---------:|
 Open class | cmd+shift+T | cmd+N               
 Open file  | cmd+shit+R | cmd+shift+N     
 Go to declaration | F3                    | cmd+B          
